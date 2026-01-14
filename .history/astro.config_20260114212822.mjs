@@ -5,6 +5,9 @@ import { pluginCollapsibleSections } from "@expressive-code/plugin-collapsible-s
 import { pluginLineNumbers } from "@expressive-code/plugin-line-numbers";
 import swup from "@swup/astro";
 import { defineConfig } from "astro/config";
+export default defineConfig({
+  base: 'my-repo',
+})
 import expressiveCode from "astro-expressive-code";
 import icon from "astro-icon";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
@@ -36,7 +39,7 @@ import rehypeFigure from "./src/plugins/rehype-figure.mjs";
 export default defineConfig({
 	site: siteConfig.site_url,
 
-	base: "/MyBlog",
+	base: "/",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
