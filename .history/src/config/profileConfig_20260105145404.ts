@@ -8,7 +8,7 @@ export const profileConfig: ProfileConfig = {
 	name: "GuanHua Yu",
 
 	// 个人签名
-	bio: "友達募集",
+	bio: "Kira ✮ Kira ✮ Doki ♥ Doki ♥",
 
 	// 链接配置
 	// 已经预装的图标集：fa6-brands，fa6-regular，fa6-solid，material-symbols，simple-icons

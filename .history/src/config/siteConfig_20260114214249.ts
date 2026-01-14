@@ -7,7 +7,7 @@ const SITE_LANG = "en";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "My Blog",
+	title: "Blog",
 
 	// 站点副标题
 	subtitle: "Hi♡~！Hi♡~♪",
