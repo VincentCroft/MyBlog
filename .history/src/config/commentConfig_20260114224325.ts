@@ -43,7 +43,7 @@ export const commentConfig: CommentConfig = {
 		// 设置 Giscus 评论系统仓库
 		repo: "VincentCroft/MyBlog",
 		// 设置 Giscus 评论系统仓库ID
-		repoId: "R_kgDOQz55_w",
+		repoId: "R_kgD2gfdFGd",
 		// 设置 Giscus 评论系统分类
 		category: "General",
 		// 获取 Giscus 评论系统分类ID
@@ -62,7 +62,6 @@ export const commentConfig: CommentConfig = {
 		lang: "zh-CN",
 		// 获取 Giscus 评论系统加载方式
 		loading: "lazy",
-		
 	},
 
 	//disqus评论系统配置
