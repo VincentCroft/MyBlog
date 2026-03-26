@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Hi♡~！Hi♡~♪",
 
 	// 站点 URL
-	site_url: "https://VincentCroft.github.io/MyBlog",
+	site_url: " https://guanhuayu.me/",
 
 	// 站点描述
 	description:

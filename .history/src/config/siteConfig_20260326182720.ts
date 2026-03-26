@@ -7,13 +7,13 @@ const SITE_LANG = "en";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "GuanHua's Blog",
+	title: "My Blog",
 
 	// 站点副标题
 	subtitle: "Hi♡~！Hi♡~♪",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: " https://guanhuayu.me/",
 
 	// 站点描述
 	description:
@@ -65,7 +65,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "GuanHua's Blog",
+		title: "My Blog",
 		// 全宽导航栏，导航栏是否占满屏幕宽度，true：占满，false：不占满
 		widthFull: false,
 		// 导航栏图标和标题是否跟随主题色
